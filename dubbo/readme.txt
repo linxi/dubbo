@@ -12,3 +12,4 @@ com.alibaba.dubbo.cache.CacheFactory
 com.alibaba.dubbo.common.compiler.Compiler
 com.alibaba.dubbo.common.extension.ExtensionFactory
 ...and so on...
+
